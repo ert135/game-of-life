@@ -1,10 +1,9 @@
 {
-  "name": "tree",
+  "name": "Gameoflife",
   "version": "1.0.0",
-  "description": "Drawing trees",
+  "description": "An implementation of the game of life cellular automaton",
   "main": "index.js",
   "scripts": {
-    "test": "grunt test",
     "compile": "tsc",
     "watch": "tsc -w"
   },
@@ -13,7 +12,7 @@
     "url": "git+https://github.com/ert135/spaceColonizationAlgorithm.git"
   },
   "author": "Robert Smith",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ert135/spaceColonizationAlgorithm/issues"
   },
