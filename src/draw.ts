@@ -19,7 +19,7 @@ declare global {
 
 let grid: Grid;
 let size = 800;
-let resolution = 40;
+let resolution = 10;
 let started = false;
 
 let setup = function() {
