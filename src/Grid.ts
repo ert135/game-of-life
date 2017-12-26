@@ -1,5 +1,3 @@
-import Cell from './Cell'
-
 export default class Grid {
     private grid: Array<Array<number>>;
     private resolution: number;
